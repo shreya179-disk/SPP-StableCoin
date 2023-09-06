@@ -6,4 +6,4 @@ collateral: exogenous
 wBTC
 wETH
 
-Our DSC system should always be "overcollateralized". At no point, should the value of all collateral <= the $ backed value of all the DSC.
+Our SSP system should always be "overcollateralized". At no point, should the value of all collateral <= the $ backed value of all the SPP.
